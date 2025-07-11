@@ -15,8 +15,8 @@ A fun and interactive memory booster game built using **HTML**, **CSS**, and **J
 
 ## 📁 Files
 
-- `index.html` – Game structure  
-- `style.css` – Design and effects  
-- `script.js` – Logic and pattern control
+- `Simon_says_game.html` – Game structure  
+- `Simon_says_game.css` – Design and effects  
+- `Simon_says_game.js` – Logic and pattern control
 
 ## 👨‍💻 Made by Shivam Gupta
