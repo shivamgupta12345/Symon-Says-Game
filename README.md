@@ -4,7 +4,7 @@ A fun and interactive memory booster game built using **HTML**, **CSS**, and **J
 
 ## 🎮 Demo
 
-[🔗 Click here to play the game (GitHub Pages link)](https://your-username.github.io/symon-says-game)
+[🔗 Click here to play the game (GitHub Pages link)]()
 
 ## 🚀 Features
 
